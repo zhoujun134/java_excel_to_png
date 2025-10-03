@@ -16,8 +16,7 @@
 使用方法:
 
 1. 引入依赖:
-
-2. 由于目前并没有将其发布到 maven 仓库中，使用前需要将 docs/lib 中的 `excel_to_image-0.0.1.jar` 添加到项目中,
+ 由于目前并没有将其发布到 maven 仓库中，使用前需要将 docs/lib 中的 `excel_to_image-0.0.1.jar` 添加到项目中,
 
 2. 使用方法: 
 
