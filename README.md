@@ -1,5 +1,7 @@
 # excel_to_image 项目
-    本项目主要是利用 apache 的 poi + ai 的能力将 excel 文件转换为图片
+本项目主要是利用 apache 的 poi + ai 的能力将 excel 文件转换为图片，支持多页添加表头生成 PNG 图片
+
+`欢迎共同交流，如果有用的话，欢迎 fork ，star 该项目`
 
 当前目前仅实现了基础的 excel 单页 sheet 转换为图片的能力，对于复杂列和行的处理，暂未实现。
 
